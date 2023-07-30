@@ -1,0 +1,16 @@
+{
+  "name": "webdevai-mobile-backend",
+  "version": "1.0.0",
+  "description": "Backend for the WebDevAI Mobile standalone web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "openai": "^0.0.3",
+    "stripe": "^8.174.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5"
+  }
+}

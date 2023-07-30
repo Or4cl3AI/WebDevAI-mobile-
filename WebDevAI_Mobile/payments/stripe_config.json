@@ -1,0 +1,10 @@
+{
+  "publicKey": "pk_test_XXXXXXXXXXXXXXXXXXXXXXXX",
+  "secretKey": "sk_test_XXXXXXXXXXXXXXXXXXXXXXXX",
+  "webhookSecret": "whsec_XXXXXXXXXXXXXXXXXXXXXXXX",
+  "productPrices": {
+    "free": "price_XXXXXXXXXXXXXXXXXXXXXXXX",
+    "premium": "price_XXXXXXXXXXXXXXXXXXXXXXXX",
+    "ultimate": "price_XXXXXXXXXXXXXXXXXXXXXXXX"
+  }
+}
