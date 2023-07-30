@@ -1,0 +1,26 @@
+# Ignore all files and folders except the following
+!WebDevAI_Mobile/frontend/
+!WebDevAI_Mobile/backend/
+!WebDevAI_Mobile/nlp/
+!WebDevAI_Mobile/payments/
+!WebDevAI_Mobile/vercel.json
+
+# Ignore specific files
+WebDevAI_Mobile/nlp/gpt3_config.json
+WebDevAI_Mobile/payments/stripe_config.json
+
+# Ignore all other .json files
+*.json
+
+# Ignore all .log files
+*.log
+
+# Ignore Node.js build output directories
+node_modules/
+dist/
+build/
+
+# Ignore IDE specific files
+.idea/
+*.iml
+.vscode/
