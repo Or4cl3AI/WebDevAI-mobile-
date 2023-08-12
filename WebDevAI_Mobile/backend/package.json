@@ -12,5 +12,6 @@
     "stripe": "^8.174.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5"
-  }
+  },
+  "lockfileVersion": 1
 }
