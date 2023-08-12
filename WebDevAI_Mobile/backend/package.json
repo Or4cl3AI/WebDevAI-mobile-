@@ -4,7 +4,8 @@
   "description": "Backend for the WebDevAI Mobile standalone web application",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "postinstall": "npm install"
   },
   "dependencies": {
     "express": "^4.17.1",
