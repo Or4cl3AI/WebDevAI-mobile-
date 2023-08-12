@@ -3,22 +3,22 @@
   "name": "webdevai-mobile",
   "builds": [
     {
-      "src": "frontend/package.json",
+      "src": "WebDevAI_Mobile/frontend",
       "use": "@vercel/node"
     },
     {
-      "src": "backend/package.json",
+      "src": "WebDevAI_Mobile/backend",
       "use": "@vercel/node"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "frontend/src/$1"
+      "dest": "WebDevAI_Mobile/frontend/src/$1"
     },
     {
       "src": "/api/(.*)",
-      "dest": "backend/$1"
+      "dest": "WebDevAI_Mobile/backend/$1"
     }
   ],
   "env": {
