@@ -1,7 +1,8 @@
 repo_name: Or4cl3AI/WebDevAI-mobile-
 report_id: a6f780f1652c6743019d716c58a97bb5
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-24T01:57:49+00:00'
+timestamp: '2024-01-05T08:34:20+00:00'
 requested_by: Or4cl3AI
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Or4cl3AI/WebDevAI-mobile-
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Or4cl3AI/WebDevAI-mobile-
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Or4cl3AI/WebDevAI-mobile-/blob/main/.github/workflows/node.js.yml
   detection_source: ".github/workflows/node.js.yml"
   last_updated_by: Dustin Groves
   last_updated_on: 2023-08-12 01:59:42.000000000 Z
@@ -43,6 +47,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/Or4cl3AI/WebDevAI-mobile-/blob/main/index.html
   detection_source: index.html
   last_updated_by: Dustin Groves
   last_updated_on: 2023-08-12 02:21:56.000000000 Z
@@ -55,6 +60,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/Or4cl3AI/WebDevAI-mobile-/blob/main/WebDevAI_Mobile/vercel.json
   detection_source: WebDevAI_Mobile/vercel.json
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-30 06:27:23.000000000 Z
